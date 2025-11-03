@@ -6,5 +6,7 @@ The Pima Indians Diabetes dataset contains information about female patients of 
 
 #Technologies and Libraries
 Python 3
+
 pandas: For data loading and manipulation.
+
 scikit-learn (sklearn): For implementing the Logistic Regression model.
